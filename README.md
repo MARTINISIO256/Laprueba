@@ -1,2 +1,1 @@
-# Laprueba
-Una forma de practicar para el Challenge
+Estome sirve para no sentirme tan tonto
